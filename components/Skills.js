@@ -51,7 +51,7 @@ export const Knowledge = () => {
                 <div className="skills list">
                     <ul>
                         <li>
-                            <div className="name">Website hosting</div>
+                            <div className="name">Website Hosting</div>
                         </li>
                         <li>
                             <div className="name">Project Management</div>
@@ -71,10 +71,10 @@ export const Knowledge = () => {
                             </div>
                         </li>
                         <li>
-                            <div className="name">Graphics and animations</div>
+                            <div className="name">Graphics and Animations</div>
                         </li>
                         <li>
-                            <div className="name">Search engine marketing</div>
+                            <div className="name">Search Engine Marketing</div>
                         </li>
                     </ul>
                 </div>
